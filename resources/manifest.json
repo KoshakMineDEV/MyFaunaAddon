@@ -1,0 +1,25 @@
+{
+  "format_version": 1,
+  "header": {
+    "name": "MyFauna Resources",
+    "description": "",
+    "uuid": "da70c667-3e6e-4e2f-a591-5770faafb981",
+    "version": [
+      1,
+      0,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "description": "Resources for MyFauna",
+      "type": "resources",
+      "uuid": "f6347592-e4d5-4580-b613-38f56c3fcc75",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

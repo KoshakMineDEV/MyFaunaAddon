@@ -1,0 +1,35 @@
+{
+  "format_version": 1,
+  "header": {
+    "name": "MyFauna Behaviors",
+    "description": "",
+    "uuid": "0c5d61c7-273c-4b36-a858-c86f2a731882",
+    "version": [
+      1,
+      0,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "description": "behaviours for MyFauna",
+      "type": "data",
+      "uuid": "01795949-5922-4885-8995-64027d2ffdd0",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ],
+  "dependencies": [
+    {
+      "uuid": "da70c667-3e6e-4e2f-a591-5770faafb981",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}
